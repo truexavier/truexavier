@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### - 🔭 I’m currently working on my portfolio website
+### - 🌱 I’m currently learning AWS Certified Cloud Practitioner Course
+### - 🤔 I’m looking for help with finding a job lol
+### - 💬 Ask me about music and my spotify playlist
+### - 📫 How to reach me: marcus.truex@gmail.com or on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marcustruex?trk=profile-badge)
+&nbsp;
+### - ⚡ Fun fact: I used to teach snowboarding lessons as a volunteer in Germany for Military families with the MWR
 <!--
 **truexavier/truexavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
