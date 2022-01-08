@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Marcus Truex
 
 ### - 🔭 I’m currently working on my portfolio website
 ### - 🌱 I’m currently learning AWS Certified Cloud Practitioner Course
