@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Marcus Truex
 
-### - 🔭 I’m currently working on my portfolio website
+### - 🔭 I’m currently working on my github profile and portfolio website
 ### - 🌱 I’m currently learning AWS Certified Cloud Practitioner Course
 ### - 🤔 I’m looking for help with finding a job lol
 ### - 💬 Ask me about music and my spotify playlist
