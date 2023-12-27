@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Marcus Truex
 
 ### - 🔭 I’m currently working on the Project Blue, Team Osiris at Beast Code
-### - 🌱 I’m currently learning Vue 3 and all it's magic 
-### - 🤔 I’m looking for help with figuring out home improvement DIY
+### - 🌱 I’m currently learning Kubernetes, helm charts, and plugin architecture. 
+### - 🤔 I’m looking for help with home improvement DIYs
 ### - 💬 Ask me about music and my spotify playlist
 ### - 📫 How to reach me: marcus.truex@gmail.com or on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marcustruex?trk=profile-badge)
 ### - ⚡ Fun fact: I used to teach snowboarding lessons as a volunteer in Germany for Military families with the MWR
